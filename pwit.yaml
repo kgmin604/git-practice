@@ -1,6 +1,10 @@
 team: Pwit
 
+<<<<<<< HEAD
 manager : Kenneth
+=======
+manager : Deborah
+>>>>>>> conflict-1
 coach: Grac
 
 members:
